@@ -12,6 +12,8 @@
 Предложенный датасет для данной задачи - MNIST. Датасет представляет набор написанных от руки цифр в диапазоне от 0 до 9. Он содержит обучающий набор из 60 000 изображений и 10 000 тестовых изображений.
 Для того, чтобы использовать данный датасет, рекомендуется воспользоваться API библиотеки PyTorch или TensorFlow (смотря на то, какой библиотекой вы воспользуетесь)
 
+![mnist_img](https://github.com/VladislavEpifanow/CV-Lab-7/blob/main/img/MNIST.png)
+
 PyTorch:
 [Ссылка на датасет в PyTorch](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html).
 
