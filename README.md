@@ -24,3 +24,7 @@ Tensorflow/Keras:
 ## Baseline
 
 В качестве baseline используется модель VAE+GAN, batch_size = 64, epoch = 20, предобработок и аугментаций нет. 
+
+Пример полученных изображений с помощью VAE+GAN:
+
+![mnist_img](https://github.com/VladislavEpifanow/CV-Lab-7/blob/main/img/VAE%2BGAN%20results.png)
